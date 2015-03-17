@@ -1,0 +1,27 @@
+{
+  "name": "peter",
+  "version": "1.0.0",
+  "description": "Peter is Awesome",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Peter is definitely awesome\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peterdemartini/peter.git"
+  },
+  "keywords": [
+    "Peter",
+    "Awesome",
+    "Cool",
+    "Bacon",
+    "Super"
+  ],
+  "author": "Peter DeMartini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peterdemartini/peter/issues"
+  },
+  "homepage": "https://github.com/peterdemartini/peter"
+}
